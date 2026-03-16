@@ -8,9 +8,14 @@ from sklearn.preprocessing import StandardScaler
 from .preprocessing import load_data
 from .build_features import engineer_features
 
+import os
+
+DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'raw', 'loan_approval_dataset.csv')
+
+
 def train():
 
-    df = load_data('../data/raw/loan_approval_dataset.csv')
+    df = load_data(DATA_PATH)
 
     df = engineer_features(df)
 
