@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mbako/Documents/Master%202/MLOps/src/mlruns/0/bc4622917dbc4bf5aa081bcab6f91dbd/artifacts
+end_time: 1773642080780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: bc4622917dbc4bf5aa081bcab6f91dbd
+run_uuid: bc4622917dbc4bf5aa081bcab6f91dbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773642076118
+status: 3
+tags: []
+user_id: mbako
