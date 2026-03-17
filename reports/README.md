@@ -2,9 +2,7 @@
 
 ## Build, Deployment & App Demo
 
-> Link to the demo video (to be added before final submission):
-
-**Video link:** `[ADD VIDEO LINK HERE]`
+**Video link:** [https://drive.google.com/file/d/1rozx8BAtQfk_tn0ocJM0OW0FSvLqC5LD/view?usp=drive_link](https://drive.google.com/file/d/1rozx8BAtQfk_tn0ocJM0OW0FSvLqC5LD/view?usp=drive_link)
 
 ### What the video covers
 
